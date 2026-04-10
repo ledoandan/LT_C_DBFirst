@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\225\\LT_C#\\DBFirst\\LT_C_DBFirst\\DBFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2896EB8-CC15-EBF3-6696-1411676AF459}|DBFirst\\DBFirst.csproj|d:\\225\\lt_c#\\dbfirst\\lt_c_dbfirst\\dbfirst\\dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D2896EB8-CC15-EBF3-6696-1411676AF459}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2896EB8-CC15-EBF3-6696-1411676AF459}|DBFirst\\DBFirst.csproj|d:\\225\\lt_c#\\dbfirst\\lt_c_dbfirst\\dbfirst\\dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2896EB8-CC15-EBF3-6696-1411676AF459}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2896EB8-CC15-EBF3-6696-1411676AF459}|DBFirst\\DBFirst.csproj|d:\\225\\lt_c#\\dbfirst\\lt_c_dbfirst\\dbfirst\\dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2896EB8-CC15-EBF3-6696-1411676AF459}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2896EB8-CC15-EBF3-6696-1411676AF459}|DBFirst\\DBFirst.csproj|d:\\225\\lt_c#\\dbfirst\\lt_c_dbfirst\\dbfirst\\dbfirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\225\\LT_C#\\DBFirst\\LT_C_DBFirst\\DBFirst\\DBFirst\\appsettings.json",
               "RelativeDocumentMoniker": "DBFirst\\appsettings.json",
@@ -46,18 +50,14 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\DBFirst\\LT_C_DBFirst\\DBFirst\\DBFirst\\Program.cs",
               "RelativeDocumentMoniker": "DBFirst\\Program.cs",
               "ToolTip": "D:\\225\\LT_C#\\DBFirst\\LT_C_DBFirst\\DBFirst\\DBFirst\\Program.cs",
               "RelativeToolTip": "DBFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T18:02:41.948Z",
               "EditorCaption": ""
@@ -96,8 +96,7 @@
               "RelativeToolTip": "DBFirst\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:53:50.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:53:50.632Z"
             }
           ]
         }
